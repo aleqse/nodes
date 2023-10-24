@@ -1,1 +1,1 @@
-console.log("trucute")
+console.log("trcute")
